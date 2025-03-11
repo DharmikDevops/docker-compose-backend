@@ -53,9 +53,10 @@ docker-compose up -d
 ```
 
 3. **Access the Flask app at:**
-🌐 `http://localhost:8080`
 
-4. **Stop the containers:**
+   🌐 `http://localhost:8080`
+
+5. **Stop the containers:**
 ```bash
 docker_compose down
 ```
